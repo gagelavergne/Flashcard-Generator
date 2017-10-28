@@ -1,5 +1,5 @@
-	const clozeCard = require('clozeCard.js');
-	const basicCard = require('BasicCard.js');
+	const clozeCard = require('./clozeCard.js');
+	const basicCard = require('./basicCard.js');
 	let cardType = process.argv[2];
 
 if (cardType === 'basic'){
