@@ -1,0 +1,26 @@
+[
+  {
+    "partial": "Sequoia National Park is located in California.",
+    "cloze": "California"
+  },
+  {
+    "partial": "The Hoover Damn in the United States is built on the Colorado River.",
+    "cloze": "Colorado"
+  },
+  {
+    "partial": "The largest ocean on planet earth is the Atlantic Ocean.",
+    "cloze": "Atlantic"
+  },
+  {
+    "partial": "The name of the longest mountain range in North America is the Appalacian Mountains.",
+    "cloze": "Appalacian"
+  },
+  {
+    "partial": "The Grand Canyon is located in Arizona.",
+    "cloze": "Arizona"
+  },
+  {
+    "partial": "The largest country in North America is Canada.",
+    "cloze": "Canada"
+  }
+]
